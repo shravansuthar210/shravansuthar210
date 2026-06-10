@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shravansuthar210&show_icons=true)
+
+
+![Visitors](https://komarev.com/ghpvc/?username=shravansuthar210)
+![Stars](https://img.shields.io/github/stars/shravansuthar210/REPO)
